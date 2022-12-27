@@ -25,4 +25,4 @@ Proyek ini merupakan sebuah program Pascal yang berfungsi untuk membuat kuis Geo
 6. Apabila jawaban dari pengguna salah, maka keluaran akan menyatakan salah dan menginstruksikan pengguna untuk kembali menjawab soal kuis yang tadi diterima oleh pengguna.
 
 # Video
-[Video Program](https://www.youtube.com "Program Analisis ...")
+[Video Program](https://youtu.be/NQuZ4yVNyDY "Kuis Geografi dan Matematika - Pascal")
