@@ -6,8 +6,11 @@ Nama : Nafis Abdillah Azka Siregar
 NIM : 221401037
 
 Kom : B
+
 Lab : Dasar Pemrograman 3
+
 Asisten Lab : Andrew Benedictus Jamesie
+
 Tahun Ajaran : Ganjil 2022/2023
 
 Ilmu Komputer Laboratory Center
